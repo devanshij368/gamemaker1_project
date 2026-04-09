@@ -32,6 +32,7 @@
     {"id":{"name":"spr_greenghost","path":"sprites/spr_greenghost/spr_greenghost.yy",},"order":6,},
     {"id":{"name":"obj_sharpblades","path":"objects/obj_sharpblades/obj_sharpblades.yy",},"order":9,},
     {"id":{"name":"spr_bigcointransparent","path":"sprites/spr_bigcointransparent/spr_bigcointransparent.yy",},"order":1,},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},"order":2,},
     {"id":{"name":"sprblueghost","path":"sprites/sprblueghost/sprblueghost.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
@@ -53,8 +54,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},

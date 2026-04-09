@@ -15,3 +15,4 @@ if (other.hit_timer <= 0) {
         room_restart();
     }
 }
+

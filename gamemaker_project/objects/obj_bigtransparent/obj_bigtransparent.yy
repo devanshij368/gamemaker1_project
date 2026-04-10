@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_bigtransparent",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_bigcointransparent",
+    "path": "sprites/spr_bigcointransparent/spr_bigcointransparent.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

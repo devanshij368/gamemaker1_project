@@ -60,10 +60,13 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+<<<<<<< Updated upstream
     {"roomId":{"name":"youwin","path":"rooms/youwin/youwin.yy",},},
     {"roomId":{"name":"youLose","path":"rooms/youLose/youLose.yy",},},
+=======
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+>>>>>>> Stashed changes
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
   ],
